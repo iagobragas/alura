@@ -1,0 +1,12 @@
+banana
+casa
+palavra
+carro
+escrever
+computador
+garrafa
+estante
+estudante
+teclado
+janela
+console
